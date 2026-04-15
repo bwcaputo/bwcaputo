@@ -1,20 +1,20 @@
 ## Brian Caputo
 
-I build AI agents and tools that sit between raw LLM capability and actual business problems — the part most people skip.
+I build AI agents and tools that sit between raw LLM capability and actual business problems. The part most people skip.
 
 **Currently**
-- MBA candidate at University of Denver (Data Analytics + Finance)
-- Summer '26 intern at Wipfli doing ERP consulting with Sage Intacct
-- Co-building an ABA therapy parent coaching app with my wife
-- Project lead on an AI supply chain automation study for Tallgrass Energy
+- MBA @ University of Denver, concentrating in Data Analytics + Finance
+- Interning at Wipfli this summer — ERP consulting with Sage Intacct
+- Building an ABA therapy coaching app with my wife (she's the clinician, I handle the code)
+- Running an AI supply chain automation project for Tallgrass Energy
 
 **Background**
 10 years U.S. Army — enlisted Cavalry Scout, commissioned as a Logistics Officer, out as a Captain. The operational mindset stuck. The acronyms did not.
 
-**What I'm actually building with**
+**Stack**
 Python · React · Ollama · Claude API · MCP · AWS
 
-**Interests**
+**Interested in**
 Agent architectures · RAG · AI in enterprise ops · defense & aerospace · making consultants nervous
 
 AWS AI Practitioner · working toward ML Specialty
