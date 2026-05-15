@@ -15,6 +15,6 @@ I build AI agents and tools that sit between raw LLM capability and actual busin
 Python · React · Ollama · Claude API · MCP · AWS
 
 **Interested in**
-Agent architectures · RAG · AI in enterprise ops · defense & aerospace · making consultants nervous
+Agent architectures · RAG · AI in enterprise ops · defense & aerospace 
 
 AWS AI Practitioner · working toward ML Specialty
