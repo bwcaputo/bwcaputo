@@ -6,7 +6,7 @@ I build AI agents and tools that sit between raw LLM capability and actual busin
 - MBA @ University of Denver, concentrating in Data Analytics + Finance
 - Interning at Wipfli this summer — ERP consulting with Sage Intacct
 - Building an ABA therapy coaching app with my wife (she's the clinician, I handle the code)
-- Running an AI supply chain automation project for Tallgrass Energy
+- Leading an MBA capstone on AI supply chain automation in midstream energy
 
 **Background**
 10 years U.S. Army — enlisted Cavalry Scout, commissioned as a Logistics Officer, out as a Captain. The operational mindset stuck. The acronyms did not.
