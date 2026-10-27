@@ -3,7 +3,7 @@
 I build AI agents and tools that sit between LLM capability and actual business problems. 
 
 **Currently**
-MBA @ University of Denver
+MBA @ University of Denver /
 Engineer @ Wipfli 
 
 **Background**
