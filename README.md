@@ -1,6 +1,6 @@
 ## Brian Caputo
 
-I build AI agents and tools that sit between LLM capability and actual business problems. 
+I build agents and tools that solve business problems. 
 
 **Currently**
 MBA @ University of Denver /
@@ -13,4 +13,4 @@ Engineer @ Wipfli
 Anything that works 
 
 **Interested in**
-solving problems 
+Solving problems 
