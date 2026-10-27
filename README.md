@@ -1,17 +1,16 @@
 ## Brian Caputo
 
-I build AI agents and tools that sit between raw LLM capability and actual business problems. The part most people skip.
+I build AI agents and tools that sit between LLM capability and actual business problems. 
 
 **Currently**
-- MBA @ University of Denver, concentrating in Data Analytics + Finance
+MBA @ University of Denver
+Engineer @ Wipfli 
 
 **Background**
-10 years U.S. Army — enlisted Cavalry Scout, commissioned as a Logistics Officer, out as a Captain. 
+10 years in the clinker (army) 
 
 **Stack**
-Python · React · Ollama · Claude API · MCP · AWS
+Anything that works 
 
 **Interested in**
-Agent architectures · RAG · AI in enterprise ops · defense & aerospace 
-
-AWS AI Practitioner · working toward ML Specialty
+solving problems 
